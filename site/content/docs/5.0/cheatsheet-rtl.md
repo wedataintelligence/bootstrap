@@ -1,13 +1,15 @@
 ---
 layout: docs
 title: Cheatsheet
+direction: rtl
 description: Comprehensive list of Bootstrap components.
 group: cheatsheet
 aliases: "/cheatsheet/"
 toc: true
 ---
 
-[This cheatsheet is also available in right-to-left]({{< docsref "/cheatsheet-rtl" >}}).
+[This cheatsheet is also available in left-to-right]({{< docsref "/cheatsheet" >}}).
+
 
 ## Contents
 
